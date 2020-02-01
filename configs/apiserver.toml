@@ -1,2 +1,5 @@
 bind_addr = ":8080"
 log_level = "debug"
+
+[storeconfig]
+database_url = "user=vladislav password=24021996 dbname=restapi_dev sslmode=disable"
