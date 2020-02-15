@@ -1,7 +1,7 @@
 package apiserver
 
 import (
-	"simple_rest_server/store"
+	"github.com/kapustaprusta/simple_rest_server/internal/app/store"
 )
 
 // Config ...

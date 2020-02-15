@@ -4,9 +4,8 @@ import (
 	"flag"
 	"log"
 
-	"simple_rest_server/internal/app/apiserver"
-
 	"github.com/BurntSushi/toml"
+	"github.com/kapustaprusta/simple_rest_server/internal/app/apiserver"
 )
 
 var (

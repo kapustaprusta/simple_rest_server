@@ -4,9 +4,8 @@ import (
 	"fmt"
 	"net/http"
 
-	"simple_rest_server/store"
-
 	"github.com/gorilla/mux"
+	"github.com/kapustaprusta/simple_rest_server/internal/app/store"
 	"github.com/sirupsen/logrus"
 )
 
